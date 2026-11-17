@@ -1,0 +1,6 @@
+- Verify the project structure is in place.
+- Keep the site static and responsive for GitHub Pages deployment.
+- Use semantic HTML and modern CSS for readability and accessibility.
+- Include a polished personal resume layout with the requested sections.
+- Keep placeholders easy to replace with the actual resume details.
+- Validate the site locally via a simple HTTP server before finalizing.
